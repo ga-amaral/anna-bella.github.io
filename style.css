@@ -1,0 +1,70 @@
+body {
+    background-image: url("images/fundo.png");
+    max-width: 900px;
+}
+
+.menu {
+    list-style-type: none;
+    background-color: #cfd8ca;
+    padding: 30px 0px 30px 10px;
+    margin: 0;
+}
+
+.bar {
+    margin: 0px 20px 0px 20px;
+    padding: 5px;
+}
+
+li {
+    display: inline;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p{
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:visited{
+    color: #383e5f;
+}
+
+.button {
+    font-weight: bolder;
+    color: #383e5f;
+}
+
+.corpo {
+    display: inline-block;
+    background-color: #e7ecdb;
+    padding: 0px 0px 0px 10px;
+    margin: 0;
+}
+
+.corpo h2 {
+    color: #697562;
+}
+
+.footer {
+    font-weight: bolder;
+    font-size: 20px;
+    text-align: center;
+    margin: 20px;
+}
+
+.images-publicitarias{
+    border: 10px solid #b5bdb0;
+}
